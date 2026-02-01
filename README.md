@@ -1,6 +1,4 @@
-# WiDS5.0
-Anomaly Detection using Probabilistic ML
-# WiDS5.0 – UPI Fraud Detection System
+# WiDS5.0 – Anomaly Detection using Probabilistic ML
 
 This repository implements an end-to-end machine learning pipeline for detecting fraudulent UPI transactions using a real-world dataset.
 
