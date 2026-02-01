@@ -22,3 +22,5 @@ if __name__ == "__main__":
     print("Number of training samples:", X_train_processed.shape[0])
     print("Number of features after preprocessing:", X_train_processed.shape[1])
 
+
+
